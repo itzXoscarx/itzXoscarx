@@ -29,19 +29,6 @@
 <img src="https://skillicons.dev/icons?i=python,angular,nestjs,nodejs,laravel,vue,flask,postgres,mysql,git,github,docker,linux,vscode"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzXoscarx&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzXoscarx&layout=compact&theme=tokyonight"/>
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=itzXoscarx&theme=tokyonight"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
