@@ -79,12 +79,4 @@
 
 > *"Code. Learn. Build. Repeat."*
 
-## 🐍 Snake Animation
 
-Create `.github/workflows/snake.yml` using Platane/snk to generate the snake animation, then embed:
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/itzXoscarx/itzXoscarx/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
